@@ -5,46 +5,65 @@
 Semester Overview, 2023
 =======================
 
+**Class meetings** are in Williams Hall 2112 from 10:15am to 11:30am am on Tuesdays and Thursdays.
 
-.. image:: /Images/syllabus_logo.jpg
-Image credit: `Lilian Matallana <https://www.linkedin.com/in/lilian-matallana-21704474/>`_
-
-
-
-
-**Class meetings are in Williams Hall 2112 from 10:15am to 11:30am am on Tuesdays and Thursdays.**
+**Student hours** will be held from 11:30am-12:30pm on Thursdays (immediately following class) in Williams 2126 (just down the hall from the class room). Student hours are a time for class members to drop in and meet with instructors for further discussion or clarification of class topics.
 
 
 Course Schedule 
 ***************
 
- **Week and Dates**	Topic [Relevant Biostar Handbook chapters, links to other resources]
+ **Week and Dates**	Topic 
+  * [Relevant Biostar Handbook chapters, links to other resources]
 
-	**Week 1, Jan 10 & 12**	Introduction to bioinformatics, Linux, and the command-line interface [1, 3, `The Linux Command Line <http://linuxcommand.org/index.php>`_, `Data Science at the Command Line <https://datascienceatthecommandline.com/2e/index.html>`_]
+	**Week 1, Jan 10 & 12**	Introduction to bioinformatics, Linux, and the command-line interface. 
+	 * 1, 3, 
+	 * `The Linux Command Line <http://linuxcommand.org/index.php>`_, 
+	 * `Data Science at the Command Line <https://datascienceatthecommandline.com/2e/index.html>`_
 
 	**16 Jan**       Martin Luther King, Jr Day - University closed, no classes
 	
-	**Week 2, Jan 17 & 19**	Sequencing instruments [12, `Performance Assessment of DNA Sequencing Platforms <https://rdcu.be/cCCQt>`_], experimental design, and introduction to the NC State HPC
+	**Week 2, Jan 17 & 19**	Sequencing instruments 
+	 * 12, 
+	 * `Performance Assessment of DNA Sequencing Platforms <https://rdcu.be/cCCQt>`_, experimental design, and introduction to the NC State HPC
 	 	        	
-	**Week 3, Jan 24 & 26**	Data preprocessing and quality control [14] and sequence read alignment [28]	 
+	**Week 3, Jan 24 & 26**	Data preprocessing and quality control and sequence read alignment
+	 * 14
+	 * 28
 
-	**Week 4, Jan 31 & Feb 2**	Transcriptome assembly  [25 - general introduction; `Best Practices for DeNovo Transcriptome Assembly with Trinity  <https://informatics.fas.harvard.edu/best-practices-for-de-novo-transcriptome-assembly-with-trinity.html>`_ ]
+	**Week 4, Jan 31 & Feb 2**	Transcriptome assembly  
+	 * 25 - general introduction; 
+	 * `Best Practices for DeNovo Transcriptome Assembly with Trinity  <https://informatics.fas.harvard.edu/best-practices-for-de-novo-transcriptome-assembly-with-trinity.html>`_ 
 	
-	**Week 5, Feb 7 & 9**	Genome assembly [25]
+	**Week 5, Feb 7 & 9**	Genome assembly
+	 * 25
 
-	**Week 6, Feb 14 & 16**	Re-sequencing, alignment, structural variation [18] 
+	**Week 6, Feb 14 & 16**	Re-sequencing, alignment, structural variation 
+	 * [18] 
 
-	**Week 7, Feb 21 & 23**	Discovery and genotyping of genetic variation [20, 21]	 
+	**Week 7, Feb 21 & 23**	Discovery and genotyping of genetic variation 
+	 * [20, 21]	 
 
-	**Week 8, Feb 28 & Mar 2**	R and R Studio -  Software Carpentry `Programming with R <http://swcarpentry.github.io/r-novice-inflammation/>`_ and `R for Reproducible Scientific Analysis <https://swcarpentry.github.io/r-novice-gapminder/>`_, Data Carpentry `Genomics Workshop <https://datacarpentry.org/lessons/#genomics-workshop>`_
+	**Week 8, Feb 28 & Mar 2**	R and R Studio 
+	 * Software Carpentry `Programming with R <http://swcarpentry.github.io/r-novice-inflammation/>`_ 
+	 * `R for Reproducible Scientific Analysis <https://swcarpentry.github.io/r-novice-gapminder/>`_ 
+	 * Data Carpentry `Genomics Workshop <https://datacarpentry.org/lessons/#genomics-workshop>`_
 
-	**Week 9, Mar 7 & 9**	Transcriptome analysis: differential gene expression, annotation [22]	
+	**Week 9, Mar 7 & 9**	Transcriptome analysis: differential gene expression, annotation 
+	 * [22]	
 
 	**Week 10, Mar 13 - 17**	Spring Break - no classes	
 
-	**Week 11, Mar 21 & 23**	Genome analysis: ChIP-seq, DHS-seq, 3-D conformation [23, 24, CLC GWB `ChIP sequencing tutorial <https://resources.qiagenbioinformatics.com/tutorials/ChIP-seq_peakshape.pdf>`_]	 
+	**Week 11, Mar 21 & 23**	Genome analysis: ChIP-seq, DHS-seq, 3-D conformation 
+	 * 23
+	 * 24
+	 * CLC GWB `ChIP sequencing tutorial <https://resources.qiagenbioinformatics.com/tutorials/ChIP-seq_peakshape.pdf>`_	 
 
-	**Week 12, Mar 28 & 30**	Linux command-line tools: awk, sed, and bash [`Bioawk Basics <https://bioinformaticsworkbook.org/Appendix/Unix/bioawk-basics.html>`_; `Sed Basics <https://bioinformaticsworkbook.org/Appendix/Unix/unix-basics-4sed.html>`_; `Using bash in bioinformatics <https://people.duke.edu/~ccc14/duke-hts-2018/cliburn/Bash_in_Jupyter.html>`_; `The Art of Bioinformatics Scripting <https://www.biostarhandbook.com/books/scripting/index.html>`_]
+	**Week 12, Mar 28 & 30**	Linux command-line tools: awk, sed, and bash 
+	 * `Bioawk Basics <https://bioinformaticsworkbook.org/Appendix/Unix/bioawk-basics.html>`_ 
+	 * `Sed Basics <https://bioinformaticsworkbook.org/Appendix/Unix/unix-basics-4sed.html>`_
+	 * `Using bash in bioinformatics <https://people.duke.edu/~ccc14/duke-hts-2018/cliburn/Bash_in_Jupyter.html>`_ 
+	 * `The Art of Bioinformatics Scripting <https://www.biostarhandbook.com/books/scripting/index.html>`_
 	
 	**Week 13, Apr 4 & 6**		Comprehensive project and/or extra time for particular subjects	 
 
