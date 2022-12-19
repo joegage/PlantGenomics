@@ -13,18 +13,18 @@ Semester Overview, 2023
 Course Schedule 
 ***************
 
- **Week and Dates**	Topic 
+**Week and Dates** Topic 
 
 **Week 1, Jan 10 & 12**	Introduction to bioinformatics, Linux, and the command-line interface. 
- * 1, 3, 
+ * 1, 3 
  * `The Linux Command Line <http://linuxcommand.org/index.php>`_, 
  * `Data Science at the Command Line <https://datascienceatthecommandline.com/2e/index.html>`_
 
 **16 Jan**       Martin Luther King, Jr Day - University closed, no classes
 
-**Week 2, Jan 17 & 19**	Sequencing instruments 
- * 12, 
- * `Performance Assessment of DNA Sequencing Platforms <https://rdcu.be/cCCQt>`_, experimental design, and introduction to the NC State HPC
+**Week 2, Jan 17 & 19**	Sequencing instruments, experimental design, and introduction to the NC State HPC
+ * 12
+ * `Performance Assessment of DNA Sequencing Platforms <https://rdcu.be/cCCQt>`_, 
 	 	        	
 **Week 3, Jan 24 & 26**	Data preprocessing and quality control and sequence read alignment
  * 14
