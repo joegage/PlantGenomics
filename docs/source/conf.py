@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'BIT 815'
+project = u'CS 590-001'
 copyright = u'2018, Ross Whetten'
-author = u'Ross Whetten'
+author = u'Ross Whetten, Joseph Gage, Ryan Sartor'
 
 # The short X.Y version
 version = u''
@@ -102,7 +102,7 @@ html_static_path = ['nstatic']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Bit815doc'
+htmlhelp_basename = 'CS590_001_doc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
