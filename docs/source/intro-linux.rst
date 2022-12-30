@@ -18,7 +18,7 @@ The objective of these class sessions is to introduce participants to the Linux 
 Description
 ***********
 
-Introductory `slides provide <https://drive.google.com/open?id=14abKXvZShl4DuNfkGX0-dVTYHkKo67-C>`_ an introduction to the course objectives and the Linux operating system in the first class session, and a `summary <https://drive.google.com/open?id=1ztskWkrVwFT0PogGDFw54L6-lppFwpsd>`_ of Chapter 1 from Eric Raymond’s book The Art of Unix Programming  (complete text available `here <http://www.catb.org/esr/writings/taoup/html/>`_) is used as a framework for discussion of differences between the Linux command-line interface and graphical interfaces. File globbing and regular expressions provide a basis for discussion of abstraction and generalization as key parts of computational thinking. 
+Introductory `slides provide <https://drive.google.com/open?id=14abKXvZShl4DuNfkGX0-dVTYHkKo67-C>`_ an introduction to the course objectives and the Linux operating system in the first class session, and a `summary <https://github.com/joegage/PlantGenomics/blob/master/docs/source/Images/GuidingPrinciplesOfUnix.pdf>`_ of Chapter 1 from Eric Raymond’s book The Art of Unix Programming  (complete text available `here <http://www.catb.org/esr/writings/taoup/html/>`_) is used as a framework for discussion of differences between the Linux command-line interface and graphical interfaces. File globbing and regular expressions provide a basis for discussion of abstraction and generalization as key parts of computational thinking. 
 
 
 Global Overview
