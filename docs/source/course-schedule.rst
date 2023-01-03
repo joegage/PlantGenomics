@@ -16,32 +16,33 @@ Course Schedule
 **Week and Dates** Topic 
 
 **Week 1, Jan 10 & 12**	Introduction to bioinformatics, Linux, and the command-line interface. 
- * 1, 3 
+ * Biostar Handbook Chapters 1, 3 
  * `The Linux Command Line <http://linuxcommand.org/index.php>`_, 
  * `Data Science at the Command Line <https://datascienceatthecommandline.com/2e/index.html>`_
 
 **16 Jan**       Martin Luther King, Jr Day - University closed, no classes
 
 **Week 2, Jan 17 & 19**	Sequencing instruments, experimental design, and introduction to the NC State HPC
- * 12
+ * Biostars Handbook Chapter 12
  * `Performance Assessment of DNA Sequencing Platforms <https://rdcu.be/cCCQt>`_, 
 	 	        	
 **Week 3, Jan 24 & 26**	Data preprocessing and quality control and sequence read alignment
- * 14
- * 28
+ * Preprocessing and quality control: Biostar Handbook Chapter 14
+ * Read alignment: Biostar Handbook Chapters 16, 18, 19
 
 **Week 4, Jan 31 & Feb 2**	Transcriptome assembly  
- * 25 - general introduction; 
+ * Biostar Handbook Chapter 25 - general introduction to assembly (whole genome) 
  * `Best Practices for DeNovo Transcriptome Assembly with Trinity  <https://informatics.fas.harvard.edu/best-practices-for-de-novo-transcriptome-assembly-with-trinity.html>`_ 
 	
 **Week 5, Feb 7 & 9**	Genome assembly
- * 25
+ * Biostar Handbook Chapter 25
 
 **Week 6, Feb 14 & 16**	Re-sequencing, alignment, structural variation 
- * [18] 
+ * Recap: Biostar Handbook Chapters 18, 19 (Previously assigned for week 3)
+ * Biostar Handbook Chapter 20
 
 **Week 7, Feb 21 & 23**	Discovery and genotyping of genetic variation 
- * [20, 21]	 
+ * Biostar Handbook Chapters 20, 21
 
 **Week 8, Feb 28 & Mar 2**	R and R Studio 
  * Software Carpentry `Programming with R <http://swcarpentry.github.io/r-novice-inflammation/>`_ 
@@ -49,13 +50,12 @@ Course Schedule
  * Data Carpentry `Genomics Workshop <https://datacarpentry.org/lessons/#genomics-workshop>`_
 
 **Week 9, Mar 7 & 9**	Transcriptome analysis: differential gene expression, annotation 
- * [22]	
+ * Biostar Handbook Chapter 22 (a.k.a. "RNA-Seq by Example")
 
 **Week 10, Mar 13 - 17**	Spring Break - no classes	
 
 **Week 11, Mar 21 & 23**	Genome analysis: ChIP-seq, DHS-seq, 3-D conformation 
- * 23
- * 24
+ * Biostar Handbook Chapters 23 and 24
  * CLC GWB `ChIP sequencing tutorial <https://resources.qiagenbioinformatics.com/tutorials/ChIP-seq_peakshape.pdf>`_	 
 
 **Week 12, Mar 28 & 30**	Linux command-line tools: awk, sed, and bash 
@@ -102,4 +102,4 @@ A flow-chart overview of DNA sequencing experiments
 
 
 Last modified 3 January 2022.
-Edits by `Ross Whetten <https://github.com/rwhetten>`_, `Will Kohlway <https://github.com/wkohlway>`_, & `Maria Adonay <https://github.com/amalgamaria>`_.
+Edits by `Joe Gage <https://github.com/joegage>`_ and `Ryan Sartor <https://github.com/LiftLaboratory>`_.
