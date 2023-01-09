@@ -44,15 +44,11 @@ Exercises
 
 \
 
-3. The example files for the week1 `quiz <https://drive.google.com/open?id=1lT1CT2uRF1GSiIpPOdG_4mTWZ6Fa7bwb>`_ are at `quiz_week1.tgz <https://drive.google.com/open?id=1J7h4u3YaBrozBAK30lL8K3ekDjAv-2P9>`_.
+3. Some links to useful websites with more information about Linux and the bash shell: `The BashGuide <http://mywiki.wooledge.org/BashGuide>`_, `An A-Z Index of the Bash Command Line <https://ss64.com/bash/>`_, and `LinuxCommand.org <http://linuxcommand.org/index.php>`_.
 
 \
 
-4. Some links to useful websites with more information about Linux and the bash shell: `The BashGuide <http://mywiki.wooledge.org/BashGuide>`_, `An A-Z Index of the Bash Command Line <https://ss64.com/bash/>`_, and `LinuxCommand.org <http://linuxcommand.org/index.php>`_.
-
-\
-
-5. A quick `Quiz <https://docs.google.com/forms/d/e/1FAIpQLSdAyA3pyegjxk2Jb4Omz4RduFbsk3SMnD0kOe2HsjGCXG_-Ig/viewform?usp=sf_link>`_ to gauge linux command line proficiency. 
+4. A practice `Quiz <https://docs.google.com/forms/d/e/1FAIpQLSdAyA3pyegjxk2Jb4Omz4RduFbsk3SMnD0kOe2HsjGCXG_-Ig/viewform?usp=sf_link>`_ to gauge linux command line proficiency. 
 
 Additional Resources
 ********************
