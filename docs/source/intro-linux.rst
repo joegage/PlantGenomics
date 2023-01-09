@@ -48,7 +48,7 @@ Exercises
 
 \
 
-4. A practice `Quiz <https://docs.google.com/forms/d/e/1FAIpQLSdAyA3pyegjxk2Jb4Omz4RduFbsk3SMnD0kOe2HsjGCXG_-Ig/viewform?usp=sf_link>`_ to gauge linux command line proficiency. 
+4. A practice `Quiz <https://docs.google.com/forms/d/e/1FAIpQLSdAyA3pyegjxk2Jb4Omz4RduFbsk3SMnD0kOe2HsjGCXG_-Ig/viewform?usp=sf_link>`_ to gauge linux command line proficiency. Example files for use with this quiz are at `quiz_week1.tgz <https://drive.google.com/open?id=1J7h4u3YaBrozBAK30lL8K3ekDjAv-2P9>`_. 
 
 Additional Resources
 ********************
