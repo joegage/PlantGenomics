@@ -112,4 +112,4 @@ Setting up an Amazon Web Service account to use Elastic Compute Cloud services:
 
 
 Last modified 9 January 2023.
-Edits by `Ryan Sarotr <https://github.com/LiftLaboratory>`_, `Ross Whetten <https://github.com/rwhetten>`_, `Will Kohlway <https://github.com/wkohlway>`_, & `Maria Adonay <https://github.com/amalgamaria>`_.
+Edits by `Ryan Sartor <https://github.com/LiftLaboratory>`_, `Ross Whetten <https://github.com/rwhetten>`_, `Will Kohlway <https://github.com/wkohlway>`_, & `Maria Adonay <https://github.com/amalgamaria>`_.
