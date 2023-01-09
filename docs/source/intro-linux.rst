@@ -52,7 +52,7 @@ Exercises
 
 \
 
-5. The Week1 `Quiz <https://github.com/joegage/PlantGenomics/blob/master/docs/source/Images/Week1_Quiz_Sp2023.pdf>` given in CS 590, Spring 2023.
+5. The Week1 `Quiz <https://github.com/joegage/PlantGenomics/blob/master/docs/source/Images/Week1_Quiz_Sp2023.pdf>`_ given in CS 590, Spring 2023.
 
 Additional Resources
 ********************
