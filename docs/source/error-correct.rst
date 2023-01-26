@@ -39,21 +39,15 @@ It is important to note that while we use simulation as a tool, it is not the pr
 Exercises
 *********
 
-The text file `error_correction_files.txt <https://drive.google.com/open?id=1doOQv2I4gKxNJspk88XmgiGAOQc53b7E>`_ contains a list of commands for the direct download of files necessary for the following exercises. These commands are given for the benefit of those who use an SSH connection to a compute node or virtual machine instance, and don't have a web-browser interface available from which to download the datafiles to the instance. For users who have access to a virtual instance with a graphic interface, starting a web browser and downloading each file directly from the link is probably easiest.
-
-\
-
 1. The first exercise will align RNA-seq reads to a bacterial genome, to provide some experience with alignment software and an opportunity to explore software tools used to summarize and manipulate Sequence Alignment and Mapping (SAM) format files. The `RNA-seq reads <https://drive.google.com/a/ncsu.edu/file/d/1Vo90SPDoe9s-NDuwATPNLwRkBE6Q-Ny3>`_ come from *Lactobacillus helveticus* strain CNRZ32, while the reference genome is from strain `DPC 4571 <https://drive.google.com/open?id=1N_8e4SAj4SU_Y0zoYzA8_s3k1vXZCMtd>`_, so some sequence differences detected in the alignments will be due to the strain divergence, and some differences due to sequencing errors or other sources of experimental noise in the RNA-seq data. You can also download a `text file <https://drive.google.com/a/ncsu.edu/file/d/1f_SkLZ0yqfjKQibUITKgpC1czd0x9_Df>`_ of steps to use in aligning the reads to the reference genome, then reviewing the results of the alignment. The output of the Qualimap program used to summarize the alignments present in the BAM output file shows (among other data) a distribution of mapping quality for all aligned reads. See `this post on the sequencing.qcfail blog <https://sequencing.qcfail.com/articles/mapq-values-are-really-useful-but-their-implementation-is-a-mess/>`_ for a discussion of mapping quality scores from different alignment programs.
 
 \
 
-2. The MaSuRCA (Maryland SuperRead - Celera Assembler) program is installed on the VCL machine image. This program uses k-mers detected in filtered and trimmed fastq sequence reads to expand typical paired-end reads from an Illumina sequencing instrument into what it calls "super-reads". 
-
-Download the `K-merCounting_ErrorCorrection.sh <https://drive.google.com/open?id=10sE787NiHKaoB1-vKhXbdHwYtlmRe-vh>`_ shell script, open it with the Geany or SciTE text editor (in the Applications menu under Development),  and review the commands and comments in the script file. These commands show how to use a simulation program called GemReads.py to simulate short sequence reads from the reference bacterial genome sequence. Type GemReads.py -h at a terminal prompt to get a list of options used to specify parameters of the simulation. The reference bacterial genome is 2.1 Mb - how many paired-end 100-nt Illumina reads would be required to reach average nucleotide coverage of 50x? What nucleotide coverage would be provided by 300,000 pairs of 100-nt reads?
+2. Download the `K-merCounting_ErrorCorrection.sh <https://drive.google.com/open?id=10sE787NiHKaoB1-vKhXbdHwYtlmRe-vh>`_ shell script, open it with the Geany or SciTE text editor (in the Applications menu under Development),  and review the commands and comments in the script file. These commands show how to use a simulation program called GemReads.py to simulate short sequence reads from the reference bacterial genome sequence. Type GemReads.py -h at a terminal prompt to get a list of options used to specify parameters of the simulation. The reference bacterial genome is 2.1 Mb - how many paired-end 100-nt Illumina reads would be required to reach average nucleotide coverage of 50x? What nucleotide coverage would be provided by 300,000 pairs of 100-nt reads?
 
 \
 
-3. The MaSuRCA installation also installed the Jellyfish k-mer counting program, and the Quorum error correction program as part of the MaSuRCA package. Use the Jellyfish k-mer counting program to produce a file with frequency data kmers of length 20, as outlined in the `K-merCounting_ErrorCorrection.sh <https://drive.google.com/open?id=10sE787NiHKaoB1-vKhXbdHwYtlmRe-vh>`_ script, then use the `plot_histo.R <https://drive.google.com/open?id=1aQIbTzaBYcbZretJg755lkeCGEwGjamm>`_ script to produce a PNG image file with a plot of the frequency distribution.
+3. The VCL instance contains the Jellyfish k-mer counting program, and the Quorum error correction program as part of the MaSuRCA package. Use the Jellyfish k-mer counting program to produce a file with frequency data kmers of length 20, as outlined in the `K-merCounting_ErrorCorrection.sh <https://drive.google.com/open?id=10sE787NiHKaoB1-vKhXbdHwYtlmRe-vh>`_ script, then use the `plot_histo.R <https://drive.google.com/open?id=1aQIbTzaBYcbZretJg755lkeCGEwGjamm>`_ script to produce a PNG image file with a plot of the frequency distribution.
 
 \
 
@@ -62,14 +56,6 @@ Download the `K-merCounting_ErrorCorrection.sh <https://drive.google.com/open?id
 \
 
 5. Use the `BWA <http://bio-bwa.sourceforge.net/bwa.shtml>`_ or `Bowtie2 <http://bowtie-bio.sourceforge.net/bowtie2/manual.shtml>`_ alignment programs to align the uncorrected and corrected sequence reads to the reference genome. Manuals for these two programs are available on Sourceforge - follow the links on the program names - and both programs are already installed on the VCL system.
-
-\
-
-6. Summarize the resulting SAM output files using the command-line tools grep, awk, cut, sort, and uniq, as described in `SAMformatAndCLtools.pdf <https://drive.google.com/open?id=1fA8Lam8lYaAM6venR3x6_rXO0MGPqO2O>`_
-
-\
-
-7. For extra practice working with SAM alignment files, download the `smallfiles.zip <https://drive.google.com/open?id=1K2ubY5OkY-JiA_hcdJSambb03pQyyq9C>`_ archive into your working directory and unpack the archive with the command :code:`unzip smallfiles.zip` Use the command-line tools grep, awk, cut, sort, and uniq, as described in the `SAMformatAndCLtools.pdf <https://drive.google.com/open?id=1fA8Lam8lYaAM6venR3x6_rXO0MGPqO2O>`_ document, to analyze the smallRNA-seq.sam file of read alignments. The same types of analyses can be carried out on the `sampleReadsSAM.tgz <https://drive.google.com/open?id=1zhNSU1j2Kr5Ptyjuv3-KY5gJzPw0MZeh>`_ file.
 
 
 Additional Resources
