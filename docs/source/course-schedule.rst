@@ -20,49 +20,54 @@ Course Schedule
  * `The Linux Command Line <http://linuxcommand.org/index.php>`_, 
  * `Data Science at the Command Line <https://datascienceatthecommandline.com/2e/index.html>`_
 
-**15 Jan**	Martin Luther King, Jr Day - University closed, no classes
+**Week 2, Jan 15 & 17** 
+ * 15 Jan: Martin Luther King, Jr Day - University closed, no classes
+ * 17 Jan: Continue Week 1 material
 
-**Week 2, Jan 17**	Linux command-line tools: awk, sed, and bash 
+**Week 3, Jan 22 & 24**	Linux command-line tools: Conda, awk, sed, and bash 
  * `Bioawk Basics <https://bioinformaticsworkbook.org/Appendix/Unix/bioawk-basics.html>`_ 
  * `Sed Basics <https://bioinformaticsworkbook.org/Appendix/Unix/unix-basics-4sed.html>`_
  * `Using bash in bioinformatics <https://people.duke.edu/~ccc14/duke-hts-2018/cliburn/Bash_in_Jupyter.html>`_ 
  * `The Art of Bioinformatics Scripting <https://www.biostarhandbook.com/books/scripting/index.html>`_
 
-**Week 3, Jan 22 & 24**	Intro to Python
+**Week 4, Jan 29 & 31**	
+ * Intro to Python
 
-**Week 4, Feb 12 & 14**	Sequencing instruments & experimental design
+**Week 5, Feb 5 & 7**	Sequencing instruments & experimental design
  * Biostars Handbook Chapter 12
  * `Performance Assessment of DNA Sequencing Platforms <https://rdcu.be/cCCQt>`_, 
 
-**Week 5, Feb 19 & 21**	Data preprocessing and quality control and sequence read alignment
+**Week 6, Feb 12 & 14**	Data preprocessing and quality control and sequence read alignment
  * Preprocessing and quality control: Biostar Handbook Chapter 14
  * Read alignment: Biostar Handbook Chapters 16, 18, 19
 
-**Week 6, Feb 26 & 28**	Re-sequencing & alignment
+**Week 7, Feb 19 & 21**	Re-sequencing & alignment
  * Recap: Biostar Handbook Chapters 18, 19 (Previously assigned for week 3)
  * Biostar Handbook Chapter 20
 
-**Week 7, Mar 4 & 6**	Discovery and genotyping of genetic variation 
+**Week 8, Feb 26 & 28**	Discovery and genotyping of genetic variation 
  * Biostar Handbook Chapters 20, 21
 
-**Week 8, Mar 11 - 15**	Spring Break - no classes
-
-**Week 9, Mar 18 & 20**	Long read genome assembly & structural variation
+**Week 9, Mar 4 & 6**	Long read genome assembly & structural variation
  * Biostar Handbook Chapter 25 - general introduction to assembly (whole genome) 
 
-**Week 10, Mar 25 & 27**	Transcriptome assembly  
+**Week 10, Mar 11 - 15**	Spring Break - no classes
+
+**Week 11, Mar 18 & 20**	Transcriptome assembly  
  * `Best Practices for DeNovo Transcriptome Assembly with Trinity  <https://informatics.fas.harvard.edu/best-practices-for-de-novo-transcriptome-assembly-with-trinity.html>`_ 
 
-**Week 11, Apr 1 & 3**	Transcriptome analysis: differential gene expression, annotation 
+**Week 12, Mar 25 & 27**	Transcriptome analysis: differential gene expression, annotation 
  * Biostar Handbook Chapter 22 (a.k.a. "RNA-Seq by Example")	
 
-**Week 12, Apr 8 & 10**	Genome analysis: ChIP-seq, DHS-seq, 3-D conformation 
+**Week 13, Apr 1 & 3**	Genome analysis: ChIP-seq, DHS-seq, 3-D conformation 
  * Biostar Handbook Chapters 23 and 24
  * CLC GWB `ChIP sequencing tutorial <https://resources.qiagenbioinformatics.com/tutorials/ChIP-seq_peakshape.pdf>`_	 
 	
-**Week 13, Apr 15 & 17**	Comprehensive project and/or extra time for particular subjects	 
+**Week 14, Apr 8 & 10**		Comprehensive project and/or extra time for particular subjects	 
 
-**Week 14, Apr 22**	Comprehensive project and/or extra time for particular subjects	 	 
+**Week 15, Apr 15 & 17**	Comprehensive project and/or extra time for particular subjects	 
+
+**Week 15, Apr 22**	Comprehensive project and/or extra time for particular subjects	 	 
 
 **Apr 23**	University's last day of classes (Tuesday; class does not meet)
 
