@@ -25,7 +25,7 @@ Course Schedule
  * 17 Jan: Continue Week 1 material
 
 **Week 3, Jan 22 & 24**	Linux command-line tools: Conda, awk, sed, and bash 
- * `Conda <https://www.biostarhandbook.com/software-installation.html#conda-environment>`_
+ * Conda environments: `What they are <https://www.biostarhandbook.com/software-installation.html#conda-environment>`_, `how to manage them <https://www.biostarhandbook.com/manage-environments.html#manage-environments>`_
  * `Bioawk Basics <https://bioinformaticsworkbook.org/Appendix/Unix/bioawk-basics.html>`_ 
  * `Sed Basics <https://bioinformaticsworkbook.org/Appendix/Unix/unix-basics-4sed.html>`_
  * `Using bash in bioinformatics <https://people.duke.edu/~ccc14/duke-hts-2018/cliburn/Bash_in_Jupyter.html>`_ 
